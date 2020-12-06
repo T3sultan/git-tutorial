@@ -1,12 +1,11 @@
 public class Hello{
     public static void main(String[] args){
         System.out.println("Hello React Native ");
-        greeting("Tipu Sultan");
+        message();
+     
     }
-    public static void greeting(String name){
-        System.out.println("Wellcome" +name);
+    public static void message(){
+        System.out.println("Hooray...!!! Now we are contribute on open source....");
     }
-    public static int sqr(int x){
-        return x*x;
-    }
+    
 }
