@@ -1,6 +1,7 @@
 public class Hello{
     public static void main(String[] args){
         System.out.println("Hello React Native ");
+<<<<<<< HEAD
         greeting("Git");
     }
     public static void greeting(String name){
@@ -18,4 +19,11 @@ public class Hello{
 
     }
    
+=======
+        display();
+    }
+   public static void display(){
+       System.out.println("Hello World");
+   }
+>>>>>>> branchA
 }
