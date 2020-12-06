@@ -5,6 +5,13 @@ public class Hello{
     }
     public static void greeting(String name){
         System.out.println("Bye Bye" +name);
+<<<<<<< HEAD
+=======
+    }
+    public static int sqr(int x){
+        return x*x;
+
+>>>>>>> branchA
     }
     public static int sqr(int x){
         return x*x;
